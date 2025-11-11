@@ -1,0 +1,2 @@
+# julia_flake
+A working nix/julia installation with CUDA????!?!?!?
